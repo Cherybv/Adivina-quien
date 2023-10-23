@@ -1,0 +1,9 @@
+Karen;n;n;n;s;n;n;n;s
+Teo;s;n;s;n;n;n;n;n
+Max;s;s;n;s;n;n;n;n
+Maria;n;n;n;s;n;s;n;s
+Diego;s;n;n;n;n;s;n;n
+Victor;s;n;n;s;n;n;n;s
+Rafa;s;n;n;s;n;s;n;n
+Pablo;s;s;n;s;s;n;n;n
+Erik;s;s;s;s;s;s;s;n
